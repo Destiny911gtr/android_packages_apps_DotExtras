@@ -71,4 +71,10 @@
 
     </PreferenceCategory>
 
+<PreferenceScreen
+        android:fragment="com.dotos.dotextras.fragments.NetworkTrafficSettings"
+        android:key="dot_nettraffic_settings"
+        android:title="@string/nettraffic_settings_title"
+        android:summary="@string/nettraffic_settings_summary" />
+	
 </PreferenceScreen>
