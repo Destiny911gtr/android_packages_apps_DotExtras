@@ -162,7 +162,6 @@
     <string name="fp_unlock_keystore_title">Fingerprint unlock</string>
     <string name="fp_unlock_keystore_summary">Unlock device with fingerprint after reboot without PIN/Password/Pattern\nNote: at your own risk!</string>
 
-<<<<<<< HEAD
     <!--Power menu on Secure Lockscreen -->
     <string name="power_tweaks">Powermenu Tweaks</string>
     <string name="lockscreen_enable_power_menu_title">Show power menu lock screen</string>
